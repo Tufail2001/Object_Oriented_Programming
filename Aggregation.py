@@ -35,6 +35,8 @@ class Customer:
     
     def print_address(self):
         print(self.address.city, self.address.pin, self.address.state)
+
+   
     
     
 class Address:
@@ -42,6 +44,8 @@ class Address:
         self.city = city
         self.pin = pin
         self.state = state
+
+   
         
         
 add1 = Address('Isb', 345, 'Pak')      
