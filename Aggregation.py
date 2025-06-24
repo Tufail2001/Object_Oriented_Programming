@@ -1,4 +1,4 @@
-# Aggregation: (has a relationship), one class owns the other class. One class is the owner and other is its property.
+# Aggregation: (has a relationship), one class owns the other class. One class is the owner and the other is its property.
 #Customer -->has a --> Address
 #Restuarant --> has a --> Menu
 
