@@ -32,7 +32,7 @@ class Address:
     
 
 add = Address(767, 'Attok', 'Punjab')
-cust = Customer('Bazeed', 'male',add )
+cust = Customer('Bazeed', 'male' add )
 
 cust.give_address()
 
