@@ -39,4 +39,5 @@ cust.give_address()
 
 cust.edit_profile('Abbass', 912, 'Rwp', 'Punjab')
 
-cust.give_address()
+cust.give_address() 
+
